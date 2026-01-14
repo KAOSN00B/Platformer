@@ -1,0 +1,4 @@
+Add player scipt to player attach rigidbody friction material named slippery (in scripts folder)
+Make sure player movement functions correctly
+Adjust variables if needed
+Attach Killzone script to killzone object

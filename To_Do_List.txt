@@ -1,0 +1,4 @@
+Add player scipt to player attach rigidbody
+Make sure player movement functions correctly
+Adjust variables if needed
+Delete Library folders when submitting project (if not built)
