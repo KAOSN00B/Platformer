@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 3b6d411f03675d64fbf7b9eb15cdaaeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7698107073288423392
+    second: Grassy_Fields_Tileset_0
+  - first:
+      213: 2257506025930442795
+    second: Grassy_Fields_Tileset_1
+  - first:
+      213: 7374762533971766705
+    second: Grassy_Fields_Tileset_2
+  - first:
+      213: 5028550542811826796
+    second: Grassy_Fields_Tileset_3
+  - first:
+      213: -2966705746001480029
+    second: Grassy_Fields_Tileset_4
+  - first:
+      213: 1552017004378341914
+    second: Grassy_Fields_Tileset_5
+  - first:
+      213: -6146375246319756145
+    second: Grassy_Fields_Tileset_6
+  - first:
+      213: -4266796146979745548
+    second: Grassy_Fields_Tileset_7
+  - first:
+      213: -6999064418128446081
+    second: Grassy_Fields_Tileset_8
+  - first:
+      213: 4834636502033290282
+    second: Grassy_Fields_Tileset_9
+  - first:
+      213: -6827962090257246878
+    second: Grassy_Fields_Tileset_10
+  - first:
+      213: -6387292661995596395
+    second: Grassy_Fields_Tileset_11
+  - first:
+      213: -4060457215852896307
+    second: Grassy_Fields_Tileset_12
+  - first:
+      213: -7370321501095661912
+    second: Grassy_Fields_Tileset_13
+  - first:
+      213: 5532111499337586015
+    second: Grassy_Fields_Tileset_14
+  - first:
+      213: -2529823197720488318
+    second: Grassy_Fields_Tileset_15
+  - first:
+      213: 9056515750992849110
+    second: Grassy_Fields_Tileset_16
+  - first:
+      213: -6814216036712678450
+    second: Grassy_Fields_Tileset_17
+  - first:
+      213: -2821082731159200791
+    second: Grassy_Fields_Tileset_18
+  - first:
+      213: -5836165498137309299
+    second: Grassy_Fields_Tileset_19
+  - first:
+      213: 320986146339086926
+    second: Grassy_Fields_Tileset_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 80
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7474ac89b25da60800000000000000
+      internalID: 7698107073288423392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 163
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2843e115c5445f10800000000000000
+      internalID: 2257506025930442795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 161
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2f34937b685660800000000000000
+      internalID: 7374762533971766705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8567831009c540800000000000000
+      internalID: 5028550542811826796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 111
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b870a7d424d6d0800000000000000
+      internalID: -2966705746001480029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 111
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1246571e3fd98510800000000000000
+      internalID: 1552017004378341914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c5bd24740b3baa0800000000000000
+      internalID: -6146375246319756145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f05442c28b49c4c0800000000000000
+      internalID: -4266796146979745548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7db06d8ef35ede90800000000000000
+      internalID: -6999064418128446081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 47
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24d4d99844181340800000000000000
+      internalID: 4834636502033290282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265126ea7a43e31a0800000000000000
+      internalID: -6827962090257246878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951b4d4a27cb57a0800000000000000
+      internalID: -6387292661995596395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf9a67ecab56a7c0800000000000000
+      internalID: -4060457215852896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aee4c6f4ab57b990800000000000000
+      internalID: -7370321501095661912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 95
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55ded7291206cc40800000000000000
+      internalID: 5532111499337586015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 12
+        height: 22
+      alignment: 9
+      pivot: {x: 1.565335, y: -0.56533813}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286d35b843344ecd0800000000000000
+      internalID: -2529823197720488318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8a8a097153fad70800000000000000
+      internalID: 9056515750992849110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb78fc2e9a0f61a0800000000000000
+      internalID: -6814216036712678450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5447e33089d8d0800000000000000
+      internalID: -2821082731159200791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f82299666c10fa0800000000000000
+      internalID: -5836165498137309299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassy_Fields_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 47
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42ec5e033f547400800000000000000
+      internalID: 320986146339086926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a689e47df0fc4243b3faea216d5f72a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grassy_Fields_Tileset_0: 7698107073288423392
+      Grassy_Fields_Tileset_1: 2257506025930442795
+      Grassy_Fields_Tileset_10: -6827962090257246878
+      Grassy_Fields_Tileset_11: -6387292661995596395
+      Grassy_Fields_Tileset_12: -4060457215852896307
+      Grassy_Fields_Tileset_13: -7370321501095661912
+      Grassy_Fields_Tileset_14: 5532111499337586015
+      Grassy_Fields_Tileset_15: -2529823197720488318
+      Grassy_Fields_Tileset_16: 9056515750992849110
+      Grassy_Fields_Tileset_17: -6814216036712678450
+      Grassy_Fields_Tileset_18: -2821082731159200791
+      Grassy_Fields_Tileset_19: -5836165498137309299
+      Grassy_Fields_Tileset_2: 7374762533971766705
+      Grassy_Fields_Tileset_20: 320986146339086926
+      Grassy_Fields_Tileset_3: 5028550542811826796
+      Grassy_Fields_Tileset_4: -2966705746001480029
+      Grassy_Fields_Tileset_5: 1552017004378341914
+      Grassy_Fields_Tileset_6: -6146375246319756145
+      Grassy_Fields_Tileset_7: -4266796146979745548
+      Grassy_Fields_Tileset_8: -6999064418128446081
+      Grassy_Fields_Tileset_9: 4834636502033290282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
